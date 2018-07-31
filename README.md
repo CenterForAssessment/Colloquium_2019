@@ -1,6 +1,6 @@
-<h3 align="center" markdown="1">Colloquium 2018: Re-imagining Assessment and Accountability in an Open World</h3>
-<h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
-<h3 align="center" markdown="1">May 23rd & 24th, 2018</h3>
+<h3 align="center" markdown="1">Colloquium 2019: Data Analytics, Artificial Intelligence, and Psychometrics: New potentials, new challenges to modeling performance and improving learning</h3>
+<h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum> Portland, Oregon</a></h3>
+<h3 align="center" markdown="1">June 3rd & 4th, 2019</h3>
 
 #### Center for Assessment Colloquium
 
@@ -8,7 +8,7 @@ Each year, professional staff at the [Center for Assessment](http://www.nciea.or
 with experts in the field, and develop a set of critical questions to be answered.  The culmination of this effort is a two-day meeting in May in which experts are convened to share information and engage in discussions with Center staff.
 
 
-#### Goals for Colloquium 2018
+#### Goals for Colloquium 2019
 
 1. Develop an understanding of and provide a rationale for the concept of “open”
 
