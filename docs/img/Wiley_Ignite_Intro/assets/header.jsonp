@@ -1,0 +1,34 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-34-23 8:5:5",
+  "loopSlideshow" : 0,
+  "filename" : "Wiley_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Wiley_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "7FBE1E23-0029-4469-B6B6-F1F2D5B7364E",
+    "E86FC647-1B9F-49CA-91A8-A845D6557BF0",
+    "5D249321-519C-4982-B504-16FA53D63244",
+    "D64304DA-A0BA-48B5-A440-851B10E9B97E"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 720,
+  "slideHeight" : 540,
+  "slideCount" : 4,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Calibri-Bold",
+    "Calibri",
+    "HelveticaNeue",
+    "Helvetica",
+    "Calibri-Light"
+  ]
+} )

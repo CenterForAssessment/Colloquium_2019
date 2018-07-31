@@ -1,0 +1,35 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-0-23 5:5:8",
+  "loopSlideshow" : 0,
+  "filename" : "Bliss_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Bliss_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "67D090FC-9E0C-4CC9-89B8-6100F5FF7FF8",
+    "C81FC93D-3E71-4DC8-962E-5186E6E92650",
+    "8ED80EE0-2303-4706-8C0B-D05D4B648349",
+    "CC09CE61-5067-428F-A60C-30B6580003FF",
+    "7C6AF253-3E13-431D-A9D3-7A68B29DED02"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 720,
+  "slideHeight" : 540,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Calibri",
+    "Calibri-Bold",
+    "HelveticaNeue",
+    "Helvetica",
+    "Calibri-Light"
+  ]
+}
