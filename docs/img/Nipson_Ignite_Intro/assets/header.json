@@ -1,0 +1,35 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-4-23 5:5:7",
+  "loopSlideshow" : 0,
+  "filename" : "Nipson_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Nipson_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "E2FCA758-F07C-4A3D-AFAD-D2FB0695B160",
+    "D7056B31-01C7-487D-897B-96938D536901",
+    "91AA3576-20D3-4ADB-B734-A4C1ADD74C3A",
+    "C9F95671-7EE0-499D-A50F-6C35A8AC5D4D",
+    "4E103F44-3CF0-4F40-A300-38074D058C5F"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 720,
+  "slideHeight" : 540,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Calibri-Bold",
+    "Calibri",
+    "HelveticaNeue",
+    "Helvetica",
+    "Calibri-BoldItalic"
+  ]
+}

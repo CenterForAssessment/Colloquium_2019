@@ -1,0 +1,35 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-34-23 5:5:1",
+  "loopSlideshow" : 0,
+  "filename" : "Robinson_Ignite_Intro.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Robinson_Ignite_Intro.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "8F0C4483-A072-4EA3-AA7E-855C1AE6DF14",
+    "E3664557-A07E-47DF-9240-C0D88AE16DC7",
+    "7008F1C4-7C99-4921-838D-C4B6A06C23E7",
+    "BFCDCA1F-8F14-4B8D-8ABA-CCE525A0B6A8",
+    "AD34E915-E183-4C7E-AB30-F025DBECE8BF"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 960,
+  "slideHeight" : 540,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Calibri",
+    "Calibri-Bold",
+    "HelveticaNeue",
+    "Helvetica",
+    "Calibri-Light"
+  ]
+} )

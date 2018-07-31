@@ -1,0 +1,35 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-51-23 7:5:5",
+  "loopSlideshow" : 0,
+  "filename" : "Oswald_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Oswald_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "44CB949A-0520-43FD-8EC1-0189EE46C112",
+    "C1877A8C-98E0-4072-A84B-A93B9F16FBEA",
+    "F04F0FC0-60FF-443A-94D0-00221912F165",
+    "87BA3DB1-05C2-49B5-9545-65105C0A0E7A",
+    "62B96D2B-D139-4B3C-9917-066BAA07B046"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 720,
+  "slideHeight" : 405,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "GillSansMT",
+    "Calibri",
+    "GillSansMT-Bold",
+    "HelveticaNeue",
+    "Helvetica"
+  ]
+}

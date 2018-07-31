@@ -1,0 +1,37 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-17-7 17:6:2",
+  "loopSlideshow" : 0,
+  "filename" : "Redd_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Redd_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "88181DA5-E25D-4F4C-B82A-EE02EAC02051",
+    "CE519251-F648-42D4-A0F8-4A5186D7B1A5",
+    "0AE238D5-DA0A-4F06-B5CD-A0CD351E37A5",
+    "8BC99624-BC92-4628-97A4-59E8915CCB51",
+    "E6F08FD3-1FDE-4B2B-940C-092CA3DFF543",
+    "A6E8C64C-8151-4317-8584-1E521E04BBBE",
+    "A35D9EB5-B9F6-4448-822A-4BA4B9E057FA"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 720,
+  "slideHeight" : 540,
+  "slideCount" : 7,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Calibri",
+    "Calibri-Bold",
+    "HelveticaNeue",
+    "Helvetica",
+    "Calibri-Light"
+  ]
+}
