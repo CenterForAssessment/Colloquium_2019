@@ -668,7 +668,7 @@ nav.shrink {
     display: none;
   }
   .header {
-    background-image: url('../img/sun_valley_mobile.png');
+    background-image: url('../img/portland_title.jpg');
     background-color: #2b2b2b;
     background-repeat: no-repeat;
     background-position: center top;
@@ -902,7 +902,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/sun_valley_title.png');
+  background-image: url('../img/portland_title.jpg');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
   background-position: center top;

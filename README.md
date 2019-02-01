@@ -7,41 +7,14 @@
 Each year, professional staff at the [Center for Assessment](http://www.nciea.org/) identify a topic which is outside of our current areas of expertise, but is likely to have a significant impact on the field and our work in the near future.  Over the course of the year, Center associates gather information on the topic, identify and interact
 with experts in the field, and develop a set of critical questions to be answered. The culmination of this effort is a two-day meeting in May in which experts are convened to share information and engage in discussions with Center staff.
 
+Educational assessment is already being enhanced by the use of analytics, machine learning, and AI (artificial intelligence).  Applications include (put “automated” in front of each of the following terms) item/dialog generation, CAT, essay scoring; assessment of difficult constructs including collaboration and leadership; showing correspondences between competencies and evidence across different contexts; development of student models; formative assessment through dialogic language and other natural and dynamic inputs; content generation; summarization of text, recommendations of instructional materials; tutoring; recommendations of course options and career pathways; data analysis for monitoring and improving programs.
 
-#### Goals for Colloquium 2019
-##### (To be updated...)
+CAT and essay scoring are the most developed applications of analytics and machine learning in educational assessment.  Because we had a previous Colloquium devoted to automated scoring, and a professional development workshop devoted to CAT (with Tim Davies, ETS), those two topics will not be emphasized in the 2019 Colloquium.
 
-1. Develop an understanding of and provide a rationale for the concept of “open”
-
-    a.	Provide definitions and examples of terms such as “open source”, “open educational resources”, and, more generally, “open”.
-
-    b.	Describe the requirements for building the “legal infrastructure” for open educational resources.
-
-2. Investigate the confluence between open educational resources and the areas of educational assessment and accountability.
-
-    a.	Move toward establishing working definitions of open assessment and open accountability.
-
-    b.	Create an awareness and understanding of the state-of-the-art in open educational resources as well as open educational assessment and accountability resources.
-
-3. Develop an understanding of how “open” transforms what we at the Center do and how we at the Center do it.
-
-    a.	Understanding barriers and challenges to transitioning from the current state of assessment and accountability to one built around open educational resources.
-
-    b.	Understanding business models related to open, open source and open educational resources.
-
-    c.	Planning a smooth transition between proprietary and open.
-
-    d.	Reflecting on the potential for transforming assessment and accountability.
-
-4. Model open development with the colloquium itself:
-
-    a. Create a [GitHub](https://github.com/) repository ([Colloquium 2018 Repository](https://github.com/CenterForAssessment/Colloquium_2018)) and an associated [Github Pages](https://pages.github.com/) website ([Colloquium 2018 Website](https://centerforassessment.github.io/Colloquium_2018/)) to hold/show all content related to the
-    colloquium.
-
-    b. Use [GitHub Projects](https://github.com/orgs/CenterForAssessment/projects/2) to organize tasks associated with setting up the colloquium.
-
-    c. Work with presenters so that all materials provided are open (or help convert them) & hosted/served from this repo.
-
+The Colloquium 2019 will bring together a diverse set of individuals to jointly address three main topics: 
+•	How is educational assessment likely to change in the next 3-5 years, especially shaped by the affordances provided by analytics, machine learning, and AI?
+•	What is necessary to make that happen?  In particular, what can states do?  What should states be aware of that others will likely do?
+•	What are the current strengths and limitations?
 
 ---
 
